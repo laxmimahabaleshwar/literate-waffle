@@ -1,2 +1,2 @@
 # literate-waffle
-# LEX program to identify the given character is alphabet,number or special symbol 
+# LEX program to extract html tags from the given html file.
